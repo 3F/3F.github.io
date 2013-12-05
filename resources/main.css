@@ -1,0 +1,26 @@
+body{
+    background-color: #F4F9EE;
+}
+
+a, a:visited, a:active, a:link{
+    color:#4E6D8A;
+    text-decoration:none;
+}
+
+a:hover{
+    color:#4E6D8A;
+    text-decoration:underline;    
+}
+
+#cubes{
+    width: 290px;
+    height: 325px;
+    padding: 0.4em;
+    position: relative;
+}
+
+#sources{
+    display: none;
+    float: right;
+    margin-right:15%;
+}

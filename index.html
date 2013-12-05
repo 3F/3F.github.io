@@ -1,1 +1,68 @@
-.
+<!DOCTYPE html>
+<!--
+ Copyright (c) 2013 Developed by reg <entry.reg@gmail.com>
+ 
+ Distributed under the MIT license
+ (see accompanying file LICENSE or a copy at http://opensource.org/licenses/MIT)
+-->
+<html>
+    <head>
+        <title>i</title>
+        <meta charset="UTF-8">
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+        <script src="resources/main.js"></script>
+        <link rel="stylesheet" href="resources/main.css">
+        <script>
+            $(function(){
+                'use strict';
+                
+                var info = new ShortInfo($('#cubes'), $('#sources'));
+                info.hide();
+//                info.setEffect(new EffectCfg(Effects.DROP, 1750));
+                info.show();
+             });
+        </script>
+    </head>
+    <body>
+        
+        <div id="cubes">
+                    <pre>
+               _________                                
+              /|       /|                               
+             /_______ / |                               
+            |  |     |  |  _________                    
+            |  |_____|__| /|       /|                   
+            | /      | /-/________/ |                   
+            |/_______|/_|| |     |  |                   
+              /|       /|| |_____|__|                   
+             /_______ / |//      | /                    
+            |  |     |  |/_______|/                     
+            |  |_____|__|                               
+            | /      | /    reg &lt;&#101;&#110;&#116;&#114;&#121;&#46;&#114;&#101;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;&gt;   
+            |/_______|/                                
+                    </pre>
+        </div>
+        
+        <div id="sources">
+            <h4>Currently public sources:</h4>
+            <ul>
+                <li><a href="https://bitbucket.org/3F" target="blank">bitbucket.org/3F (primary)</a></li>
+                <li><a href="https://github.com/3F" target="blank">github.com/3F (mirror)</a></li>
+            </ul>
+            
+            <h4>Some projects hosted on:</h4>
+            <ul>
+                <li>MS Visual Studio Gallery, e.g.: <a href="http://visualstudiogallery.msdn.microsoft.com/0d1dbfd7-ed8a-40af-ae39-281bfeca2334/" target="blank">additional event handling</a> ..</li>
+                <li>Sourceforge.net, e.g.: <a href="https://sourceforge.net/projects/flydcstat/" target="blank">analysis statistic</a> ..</li>
+            </ul>
+            
+            <h4>Contacts:</h4>
+            <ul>
+                <li>E-mail: &#101;&#110;&#116;&#114;&#121;&#46;&#114;&#101;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</li>
+                <li>Skype: rbsystem</li>
+            </ul>
+        </div>
+        
+    </body>
+</html>
