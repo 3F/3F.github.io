@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <!--
- Copyright (c) 2013 Developed by reg <entry.reg@gmail.com>
+ Copyright (c) %year% Developed by reg <entry.reg@gmail.com>
  
  Distributed under the MIT license
  (see accompanying file LICENSE or a copy at http://opensource.org/licenses/MIT)
 -->
 <html>
     <head>
-        <title>i</title>
+        <title>net::r_eg;</title>
         <meta charset="UTF-8">
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
@@ -17,17 +17,23 @@
             $(function(){
                 'use strict';
                 
-                var info = new ShortInfo($('#cubes'), $('#sources'));
-                info.hide();
-//                info.setEffect(new EffectCfg(Effects.DROP, 1750));
+                var info = new ShortInfo($('.main'), $('#cubes'), $('#imgarrow'));
                 info.show();
              });
         </script>
     </head>
     <body>
-        
-        <div id="cubes">
-                    <pre>
+
+<div class="main">
+ 
+ <span class="shadow-header"></span>
+ <pre><pre class="line-numbers language-csharp"><span id="imgarrow"></span><code class="language-csharp">
+
+<span class="token comment" spellcheck="true">/* 
+ * Copyright (c) %year% Developed by reg &lt;&#101;&#110;&#116;&#114;&#121;&#46;&#114;&#101;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;&gt;
+ * 
+ * Distributed under the MIT license
+ * (see accompanying file LICENSE or a copy at http://opensource.org/licenses/MIT) <div id="cubes"><pre>
                _________                                
               /|       /|                               
              /_______ / |                               
@@ -40,38 +46,66 @@
             |  |     |  |/_______|/                     
             |  |_____|__|                               
             | /      | /    reg &lt;&#101;&#110;&#116;&#114;&#121;&#46;&#114;&#101;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;&gt;   
-            |/_______|/                                
-                    </pre>
-        </div>
+            |/_______|/     </pre></div>
+ */</span>
+
+<span class="token keyword">namespace</span> net<span class="token punctuation">.</span>r_eg
+<span class="token punctuation">{</span>
+    <span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">Info</span><span class="token punctuation">:</span> <span class="token class-name">ISource</span><span class="token punctuation">,</span> <span class="token class-name">IContact</span>
+    <span class="token punctuation">{</span>
+        <span class="token keyword">public</span> <span class="token class-name">IEnumerable</span><span class="token operator">&lt;</span><span class="token class-name">SourceUri</span><span class="token operator">&gt;</span> CurrentlyPublicSources
+        <span class="token punctuation">{</span>
+            <span class="token keyword">get</span>
+            <span class="token punctuation">{</span>
+                <span class="token keyword">return</span> <span class="token keyword">new</span> <span class="token class-name">SourceUri</span><span class="token punctuation">[</span><span class="token punctuation">]</span> <span class="token punctuation">{</span> 
+                    <span class="token keyword">new</span> <span class="token class-name">SourceUri</span><span class="token punctuation">(</span><span class="token string">"<a href="https://bitbucket.org/3F" target="blank" title="https://bitbucket.org/3F">bitbucket.org/3F</a>"</span><span class="token punctuation">,</span> <span class="token class-name">SType</span><span class="token punctuation">.</span>Primary<span class="token punctuation">)</span><span class="token punctuation">,</span>
+                    <span class="token keyword">new</span> <span class="token class-name">SourceUri</span><span class="token punctuation">(</span><span class="token string">"<a href="https://github.com/3F" target="blank" title="https://github.com/3F">github.com/3F</a>"</span><span class="token punctuation">,</span> <span class="token class-name">SType</span><span class="token punctuation">.</span>Mirror<span class="token punctuation">)</span><span class="token punctuation">,</span>
+                <span class="token punctuation">}</span><span class="token punctuation">;</span>
+            <span class="token punctuation">}</span>
+        <span class="token punctuation">}</span>
+
+        <span class="token keyword">public</span> <span class="token class-name">IEnumerable</span><span class="token operator">&lt;</span><span class="token class-name">Project</span><span class="token operator">&gt;</span> <span class="token function">hostedProjects<span class="token punctuation">(</span></span><span class="token class-name">PType</span> type<span class="token punctuation">)</span>
+        <span class="token punctuation">{</span>
+            <span class="token keyword">if</span><span class="token punctuation">(</span>type <span class="token operator">!</span><span class="token operator">=</span> <span class="token class-name">PType</span><span class="token punctuation">.</span>OpenSource<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+                <span class="token keyword">throw</span> <span class="token keyword">new</span> <span class="token class-name">NoticeAboutAccessException</span><span class="token punctuation">(</span>
+                    <span class="token string">"Some old and very old projects, utilities, plugins, etc. on Java, C++, C#, PHP5, JavaScript and other ..."</span><span class="token punctuation">,</span>
+                    <span class="token string">"Has already lost its meaning or there are some problems to make them publicly available"</span><span class="token punctuation">,</span>
+
+                    <span class="token string">"However, perhaps a some logic will be transferred to primary sandbox for reuse"</span><span class="token punctuation">,</span>
+                    <span class="token string">"Like <a href="https://drive.google.com/uc?id=0B0-ygoNBOTDcZ0dHZnJ5aE84RW8" target="blank">this</a> (with a vt100 terminal emulation), etc. "</span>
+                <span class="token punctuation">)</span><span class="token punctuation">;</span>
+            <span class="token punctuation">}</span>
+
+            <span class="token keyword">foreach</span><span class="token punctuation">(</span><span class="token class-name">Project</span> project <span class="token keyword">in</span> <span class="token function">hostedProjects<span class="token punctuation">(</span></span><span class="token string">"Sourceforge.net"</span><span class="token punctuation">,</span> <span class="token string">"MS Visual Studio Gallery"</span><span class="token punctuation">,</span> <span class="token string">"*"</span><span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+                <span class="token keyword">yield</span> <span class="token keyword">return</span> project<span class="token punctuation">;</span>
+            <span class="token punctuation">}</span>
+        <span class="token punctuation">}</span>
+
+        <span class="token keyword">public</span> <span class="token class-name">List</span><span class="token operator">&lt;</span><span class="token class-name">IContactLeaf</span><span class="token operator">&gt;</span> <span class="token function">getContacts<span class="token punctuation">(</span></span><span class="token punctuation">)</span>
+        <span class="token punctuation">{</span>
+            <span class="token keyword">return</span> <span class="token keyword">new</span> <span class="token class-name">List</span><span class="token operator">&lt;</span><span class="token class-name">IContactLeaf</span><span class="token operator">&gt;</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+            <span class="token punctuation">{</span> 
+                <span class="token keyword">new</span> <span class="token class-name">Email</span><span class="token punctuation">(</span><span class="token string">"&#101;&#110;&#116;&#114;&#121;&#46;&#114;&#101;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;"</span><span class="token punctuation">)</span><span class="token punctuation">,</span> 
+                <span class="token keyword">new</span> <span class="token class-name">Skype</span><span class="token punctuation">(</span><span class="token string">"rbsystem"</span><span class="token punctuation">)</span>
+            <span class="token punctuation">}</span><span class="token punctuation">;</span>
+        <span class="token punctuation">}</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span><span class="token preprocessor">
+
+#include </span><span class="token string">"typedefs.h"</span>
+<span class="token keyword">using</span> <span class="token keyword">namespace</span> net<span class="token punctuation">:</span><span class="token punctuation">:</span>r_eg<span class="token punctuation">;</span>
+
+<span class="token keyword">int</span> <span class="token function">_tmain<span class="token punctuation">(</span></span><span class="token keyword">int</span> argc<span class="token punctuation">,</span> _TCHAR<span class="token operator">*</span> argv<span class="token punctuation">[</span><span class="token punctuation">]</span><span class="token punctuation">)</span>
+<span class="token punctuation">{</span>
+    <span class="token comment" spellcheck="true">// let's begin =_=
+</span>
+<span class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></pre>
+
+</div>
         
-        <div id="sources">
-            <h4>Currently public sources:</h4>
-            <ul>
-                <li><a href="https://bitbucket.org/3F" target="blank">bitbucket.org/3F (primary)</a></li>
-                <li><a href="https://github.com/3F" target="blank">github.com/3F (mirror)</a></li>
-            </ul>
-            
-            <h4>Some projects hosted on:</h4>
-            <ul>
-                <li>MS Visual Studio Gallery, e.g.: <a href="http://visualstudiogallery.msdn.microsoft.com/0d1dbfd7-ed8a-40af-ae39-281bfeca2334/" target="blank">additional event handling</a> ..</li>
-                <li>Sourceforge.net, e.g.: <a href="https://sourceforge.net/projects/flydcstat/" target="blank">analysis statistic</a> ..</li>
-            </ul>
-            
-            <h4>Proprietary, private and commercial:</h4>
-            <blockquote>
-                Some old and very old projects, utilities, plugins, etc., on Java, C++, C#, PHP5, JavaScript and other ...<br />
-                Either already lost the meaning or something problems to make them publicly available<br />
-                <br />
-                But maybe a some logic will be partially transferred to the primary sandbox for reuse<br />
-                Like <a href="https://drive.google.com/uc?id=0B0-ygoNBOTDcZ0dHZnJ5aE84RW8" target="blank">this</a> (with a vt100 terminal emulation), etc.
-            </blockquote>
-            
-            <h4>Contacts:</h4>
-            <ul>
-                <li>E-mail: &#101;&#110;&#116;&#114;&#121;&#46;&#114;&#101;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</li>
-                <li>Skype: rbsystem</li>
-            </ul>
-        </div>
-        
+<div id="contacts">    
+    &#101;&#110;&#116;&#114;&#121;&#46;&#114;&#101;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
+</div>
+
     </body>
 </html>
