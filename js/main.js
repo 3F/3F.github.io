@@ -23,6 +23,11 @@ var ShortInfoPrototype =
     arrow: null,
     code:  null,
     
+    /**
+     * @type Boolean
+     */
+    sliding: false,
+    
     EffectCfg: function(name, duration, param)
     {
         this.name       = name;
@@ -70,25 +75,63 @@ var ShortInfoPrototype =
         this.arrow._.off('click');
     },
     
-    construct: function(code, cubes, arrow)
+    attachSlideCode: function(id, width, delay)
+    {
+        var sliding = this.sliding;
+        
+        id.on('mouseover', null, function()
+        {
+            if(sliding || id.css('right') != width) {
+                return;
+            }
+            sliding = true;
+            
+            id.addClass('code-box-rotate');
+            id.stop().animate({right: '0px'}, delay, function() {
+                sliding = false;
+            });
+        });
+        
+        id.on('mouseleave', null, function()
+        {
+            if(sliding || id.css('right') != '0px'){
+                return;
+            }
+            sliding = true;
+            
+            id.removeClass('code-box-rotate');
+            id.stop().animate({right: width}, delay, function() {
+                sliding = false;
+            });
+        });
+    },
+    
+    detachSlideCode: function(id)
+    {
+        id.off('mouseover');
+        id.off('mouseleave');
+    },    
+    
+    construct: function(cubes, cubesCode, arrow)
     {
         this.cubes  = {
             _: cubes,
             effect: new this.EffectCfg(this.EffectType.EXPLODE, 3120, {}) //1750
         };
+        cubesCode.draggable({ revert: true });
         
         this.arrow  = {
             _: arrow,
             effect: new this.EffectCfg(this.EffectType.DROP, 750, {direction: 'right'})
         };
         
-        this.code   = {
-            _: code,
-            effect: new this.EffectCfg(this.EffectType.DROP, 750, {direction: 'right', delay: 4000})
-        };
+//        this.code   = {
+//            _: code,
+//            effect: new this.EffectCfg(this.EffectType.DROP, 750, {direction: 'right', delay: 4000})
+//        };
         
         this.hide();
-        this.attachArrowClick(this.code);
+//        this.attachArrowClick(this.code);
     }
 };
 

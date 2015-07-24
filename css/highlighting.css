@@ -1,0 +1,47 @@
+.t.c {
+    color: #7D8B99;
+}
+
+.t.p {
+    color: #5F6364;
+}
+
+.t.f {
+    
+}
+
+.t.s {
+    color: #A31515;
+}
+
+.t.o,
+.t.url {
+    color: #a67f59;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.t.pr,
+.t.k {
+    color: #0F557B;
+}
+.t.cl {
+    color: #1990b8;
+}
+
+.language-css .t.s,
+.style .t.s {
+    color: #a67f59;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.namespace {
+    opacity: .7;
+}
+
+.t.s a {
+    color: #A31515;
+}
+
+.t.url a {
+    color: #1990b8;
+}

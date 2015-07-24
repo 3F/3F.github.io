@@ -1,0 +1,198 @@
+/**
+ * Based on Prism.js - Coy theme
+ */
+
+@font-face {
+    font-family: Inconsolata;
+    src: url('fonts/Inconsolata/Inconsolata.otf');
+}
+
+pre{
+    border: 1px;
+}
+
+pre[class*="lang-"] {    
+    width: 864px; /* main width */
+}
+
+code, pre, .code-box {
+    height: 600px; /* main height */
+}
+
+.code-box {    
+  position: absolute;
+  right: 0;
+  top: 50%;
+  z-index: 5;
+}
+
+.code-box-rotate {
+    -webkit-transform: rotate(-3deg);
+    -moz-transform: rotate(-3deg);
+    -ms-transform: rotate(-3deg);
+    -o-transform: rotate(-3deg);
+    transform: rotate(-3deg);
+}
+
+#slcode {
+    right: -856px; /* right green panel */
+    position: absolute;
+    z-index: 100;
+    top: 20%;
+}
+
+code[class*="lang-"],
+pre[class*="lang-"] {
+    color: black;
+    font-family: Inconsolata, Consolas, Monaco, Courier New, Courier, 'Andale Mono', monospace;
+    direction: ltr;
+    text-align: left;
+    white-space: pre;
+    word-spacing: normal;
+    word-break: normal;
+    line-height: 1.5;
+    font-size: 9pt;
+
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;    
+    
+    padding: 0;
+}
+
+pre[class*="lang-"] {
+    position: relative;
+    margin: .5em 0;
+    
+    border-left: 10px solid #80B43F;
+    background-color: #fdfdfd;
+    background-size: 3em 3em;
+    background-origin: content-box;
+    overflow: visible;
+      
+    -webkit-box-shadow: -2px 0px 6px #979797;
+    -moz-box-shadow: -2px 0px 6px #979797;
+    box-shadow: -2px 0px 6px #979797;    
+}
+
+code[class*="lang"] {
+    max-height: inherit;
+    height: 100%;
+    padding: 0 1em;
+    display: block;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+/* Margin bottom to accomodate shadow */
+:not(pre) > code[class*="lang-"],
+pre[class*="lang-"] {
+    background-color: #fdfdfd;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-bottom: 1em;
+}
+
+/* Inline code */
+:not(pre) > code[class*="lang-"] {
+    position: relative;
+    padding: .2em;
+    -webkit-border-radius: 0.3em;
+    -moz-border-radius: 0.3em;
+    -ms-border-radius: 0.3em;
+    -o-border-radius: 0.3em;
+    border-radius: 0.3em;
+    color: #c92c2c;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+pre[class*="lang-"]:before,
+pre[class*="lang-"]:after {
+    content: '';
+    z-index: -2;
+    display: block;
+    position: absolute;
+    bottom: 0.75em;
+    left: 0.18em;
+    width: 40%;
+    height: 20%;
+    
+    -webkit-box-shadow: 0px 13px 8px #979797;
+    -moz-box-shadow: 0px 13px 8px #979797;
+    box-shadow: 0px 13px 8px #979797;
+    -webkit-transform: rotate(-2deg);
+    -moz-transform: rotate(-2deg);
+    -ms-transform: rotate(-2deg);
+    -o-transform: rotate(-2deg);
+    transform: rotate(-2deg);
+}
+
+:not(pre) > code[class*="lang-"]:after,
+pre[class*="lang-"]:after {
+    right: 0.75em;
+    left: auto;
+    -webkit-transform: rotate(2deg);
+    -moz-transform: rotate(2deg);
+    -ms-transform: rotate(2deg);
+    -o-transform: rotate(2deg);
+    transform: rotate(2deg);
+}
+
+/* Line Numbers */
+pre[class*="lang-"].line-numbers {
+    padding-left: 0;
+}
+
+pre[class*="lang-"].line-numbers code {
+    padding-left: 3.8em;
+}
+
+pre[class*="lang-"].line-numbers .line-numbers-rows {
+    left: 0;
+}
+
+pre.line-numbers {
+    position: relative;
+    padding-left: 3.8em;
+    counter-reset: linenumber;
+}
+
+pre.line-numbers > code {
+    position: relative;
+}
+
+.line-numbers .line-numbers-rows {
+    position: absolute;
+    pointer-events: none;
+    top: 0;
+    font-size: 100%;
+    left: -3.8em;
+    width: 3em;
+    letter-spacing: -1px;
+    border-right: 1px solid #999;
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.line-numbers-rows > span {
+    pointer-events: none;
+    display: block;
+    counter-increment: linenumber;
+}
+
+.line-numbers-rows > span:before {
+    content: counter(linenumber);
+    color: #999;
+    display: block;
+    padding-right: 0.8em;
+    text-align: right;
+}
