@@ -1,49 +1,50 @@
+<!DOCTYPE html>
 <html>
-<head>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-8539397134611096",
-    enable_page_level_ads: true
-  });
-</script>
-
+  <!-- TODO: something new -->
+  <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>net::r_eg;</title>
-    <meta name="description" content="">
-    <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m);})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-60006880-5', 'auto');ga('send', 'pageview');</script>
+    <title>^_^</title>
+    <meta name="copyright" content="Denis Kuzmin :: github.com/3F" />
+    <meta name="description" content="Professional software developer with a soul. Most popular Open Source projects here github.com/3F ">
+    <meta name="robots" content="index, follow" />
+    <meta name="keywords" content="Programming Information Professional Software Developer OpenSource projects" />
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="/css/bootstrap_paper_v3.3.5.css">
-    
-    <!--<link rel="icon" href="/img/favicon.ico" />-->
+
+    <link rel="icon" href="https://avatars.githubusercontent.com/u/3246589?" />
     <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" href="/css/code.css">
     <link rel="stylesheet" href="/css/highlighting.css">
-    <link rel="canonical" href="http://r-eg.net/">
+    <link rel="canonical" href="//r-eg.net/">
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>    
-    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
     <script src="/js/main.js"></script>
-    
     <script>
-        $(function(){
+        document.addEventListener("DOMContentLoaded", function()
+        {
             'use strict';
+            
+            try
+            {
+                let info = new ShortInfo('cubes', false, function() {
+                    info.show();
+                });
+            }
+            catch(ex) {
+                console.log('Something went wrong: ', ex);
+            }
 
-            var info = new ShortInfo($('#cubes'), $('#cubes-code'), $('#slcode'));
-            //info.attachSlideCode($('#slcode'), '-856px', 500);
-            info.show();
          });
-    </script>    
+    </script>
   </head>
   <body>
 
 <div class="container-centered">
   <div class="row row-centered">
-    
+
     <div class="pre-cubes small" id="cubes">
         ________
       /|       /|
@@ -58,25 +59,25 @@
     |  |_____|__|
     | /      | /
     |/_______|/</div>
-    
+
     <blockquote class="bquote-center">
       <p>All is ready to do anything., even if it's not possible... just to wish.</p>
       <small>
         <a href="mailto:entry.reg@gmail.com">entry.reg@gmail.com</a>
-        
-        <a style="margin-left: 12px;" href="https://plus.google.com/101239554716569212042" title="Google+">
+
+        <a style="margin-left: 12px;" href="https://plus.google.com/101239554716569212042" title="+DenisKuzmin3F">
           <img src="https://www.gstatic.com/images/icons/gplus-16.png" width="16" height="16" />
         </a>
-        
+
         <a style="margin-left: 12px;" href="skype:rbsystem?chat" title="Skype - click to chat">
           <img src="/img/Skype-16.png" width="16" height="16" />
-        </a>        
+        </a>
 
-        <a style="margin-left: 10px;" href="https://github.com/3F" title="GitHub /3F">
+        <a style="margin-left: 10px;" href="https://github.com/3F" title="github.com/3F">
           <img src="/img/GitHub-Mark-32px.png" width="16" height="16" />
         </a>
 
-        <!--
+        <!-- obsolete
         <a style="margin-left: 10px;" href="https://bitbucket.org/3F" title="Bitbucket">
           <img src="/img/Bitbucket-Mark-32px.png" width="16" height="20" />
         </a>
@@ -86,6 +87,6 @@
 
   </div>
 </div>
-    
+
   </body>
 </html>

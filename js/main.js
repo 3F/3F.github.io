@@ -1,140 +1,148 @@
 /*
- * Copyright (c) %year% Developed by reg <entry.reg@gmail.com>
- * 
+ * Copyright (c) 2013-2018  Denis Kuzmin <entry.reg@gmail.com> :: github.com/3F
+ *
  * Distributed under the MIT license
  * (see accompanying file LICENSE or a copy at http://opensource.org/licenses/MIT)
 */
 
+/** TODO: old cubes, just don't know, to add something new special */
+
 'use strict';
 
-var ShortInfoPrototype =
+class EffectCfg
 {
-    EffectType: 
-    {
-        EXPLODE: 'explode',
-        DROP:    'drop',
-        SLIDE:   'slide',
-        BLIND:   'blind',
-        BOUNCE:  'bounce',
-        PUFF:    'puff'
-    },
-    
-    cubes: null,
-    arrow: null,
-    code:  null,
-    
-    /**
-     * @type Boolean
-     */
-    sliding: false,
-    
-    EffectCfg: function(name, duration, param)
+    constructor(name, duration, param)
     {
         this.name       = name;
         this.duration   = duration;
         this.param      = param;
-    },
-    
-    hide: function()
+    }
+};
+
+let ShortInfoPrototype =
+{
+    EffectType:
     {
-        this.cubes._.hide();
-        this.arrow._.hide();
+        EXPLODE:    'explode',
+        DROP:       'drop',
+        SLIDE:      'slide',
+        BLIND:      'blind',
+        BOUNCE:     'bounce',
+        PUFF:       'puff'
     },
+
+    cubes: null,
+
+    effects:
+    {
+        coreVersion: '3.3.1',
+        uiVersion: '1.12.1',
+        cdn: 'ajax.googleapis.com',
+        use: function(_) { 
+            return new EffectCfg(_.EffectType.EXPLODE, 3120, {}); // ~1750 
+        },
+    },
+
+    debug: false,
     
     show: function()
     {
         this.cubes._.draggable({ revert: true });
-        
-        var arrow = this.arrow;
-        this.cubes._.show(
-                this.cubes.effect.name, 
-                this.cubes.effect.param, 
-                this.cubes.effect.duration, 
-                function() {
-                    arrow._.show(
-                        arrow.effect.name, arrow.effect.param, arrow.effect.duration
-                    );
-                }
+
+        this.cubes._.show
+        (
+            this.cubes.effect.name,
+            this.cubes.effect.param,
+            this.cubes.effect.duration,
+            function() {}
         );
+
+        this.dbg(this.show);
     },
-    
-    attachArrowClick: function(target)
+
+    hide: function()
     {
-        this.arrow._.click(function(e)
+        this.cubes._.hide();
+        this.dbg(this.hide);
+    },
+
+    load: function(url, onload)
+    {
+        var script      = document.createElement('script');
+        script.src      = url;
+        script.onload   = onload || function() { };
+
+        document.head.appendChild(script);
+    },
+
+    ctor: function(cubes, debug, onInit)
+    {
+        cubes       = document.getElementById(cubes);
+        this.debug  = debug;
+
+        if(this.isNull(cubes)) {
+            throw new SinfNullException('cubes');
+        }
+
+        let l = 'https://' + this.effects.cdn;
+
+        let _= this;
+        _.load(l + "/ajax/libs/jquery/"+ _.effects.coreVersion  +"/jquery.min.js", function()
         {
-            target._.hide(target.effect.name, {}, target.effect.duration);
-            
-            setTimeout(function(){
-                target._.show(target.effect.name, target.effect.param, target.effect.duration);
-            }, target.effect.param.delay);
-        });        
-    },
-    
-    detachArrowClick: function()
-    {
-        this.arrow._.off('click');
-    },
-    
-    attachSlideCode: function(id, width, delay)
-    {
-        var sliding = this.sliding;
-        
-        id.on('mouseover', null, function()
-        {
-            if(sliding || id.css('right') != width) {
-                return;
-            }
-            sliding = true;
-            
-            id.addClass('code-box-rotate');
-            id.stop().animate({right: '0px'}, delay, function() {
-                sliding = false;
+            _.load(l + "/ajax/libs/jqueryui/"+ _.effects.uiVersion  +"/jquery-ui.min.js", function()
+            {
+                _.dbg('Ready for effects');
+
+                _.cubes = {
+                    _: $(cubes),
+                    effect: _.effects.use(_)
+                };
+
+                _.hide();
+
+                if(!onInit) {
+                    return;
+                }
+
+                onInit();
+                _.dbg(onInit);
             });
         });
-        
-        id.on('mouseleave', null, function()
-        {
-            if(sliding || id.css('right') != '0px'){
-                return;
-            }
-            sliding = true;
-            
-            id.removeClass('code-box-rotate');
-            id.stop().animate({right: width}, delay, function() {
-                sliding = false;
-            });
-        });
+
+        this.dbg('ctor');
     },
-    
-    detachSlideCode: function(id)
+
+    dbg: function(msg)
     {
-        id.off('mouseover');
-        id.off('mouseleave');
-    },    
-    
-    construct: function(cubes, cubesCode, arrow)
+        if(this.debug) {
+            console.log(msg);
+        }
+    },
+
+    isNull(val)
     {
-        this.cubes  = {
-            _: cubes,
-            effect: new this.EffectCfg(this.EffectType.EXPLODE, 3120, {}) //1750
-        };
-        cubesCode.draggable({ revert: true });
-        
-        this.arrow  = {
-            _: arrow,
-            effect: new this.EffectCfg(this.EffectType.DROP, 750, {direction: 'right'})
-        };
-        
-//        this.code   = {
-//            _: code,
-//            effect: new this.EffectCfg(this.EffectType.DROP, 750, {direction: 'right', delay: 4000})
-//        };
-        
-        this.hide();
-//        this.attachArrowClick(this.code);
+        return val == null || val === undefined;
     }
 };
 
-var ShortInfo       = ShortInfoPrototype.construct;
-ShortInfo.prototype = ShortInfoPrototype;
-ShortInfo.prototype.construct = null;
+let ShortInfo               = ShortInfoPrototype.ctor;
+ShortInfo.prototype         = ShortInfoPrototype;
+ShortInfo.prototype.ctor    = null;
+
+
+class SinfException
+{
+    constructor(message, arg)
+    {
+        this.message    = message;
+        this.arg        = arg;
+    }
+}
+
+class SinfNullException extends SinfException
+{
+    constructor(...args)
+    {
+        super("'" + args + "' cannot be null.", null);
+    }
+}
