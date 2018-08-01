@@ -1,6 +1,7 @@
 ---
 layout: ascetic
 title: Donation
+icon: /img/pig-heart.png
 permalink: /Donation/
 ---
     

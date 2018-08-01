@@ -16,7 +16,7 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
 
-  <link rel="icon" href="https://avatars.githubusercontent.com/u/3246589?" />
+  <link rel="icon" href="{% if page.icon %}{{page.icon}}{% else %}https://avatars.githubusercontent.com/u/3246589?{% endif %}" />
   <link rel="stylesheet" href="{{ "/css/platform.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/custom.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
