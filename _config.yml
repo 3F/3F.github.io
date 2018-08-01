@@ -18,10 +18,6 @@ collections:
 # Build settings
 markdown: kramdown
 
-redcarpet:
-  extensions: ["tables", "no_intra_emphasis", "fenced_code_blocks", "strikethrough", "superscript", "with_toc_data", "space_after_headers", "footnotes", "prettify"]
-  # "autolink",
-
 kramdown:
     smart_quotes: ["apos", "apos", "quot", "quot"]
     auto_ids: true # generate ID for headings
