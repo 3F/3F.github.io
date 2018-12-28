@@ -5,36 +5,36 @@ icon: /img/pig-heart.png
 permalink: /Donation/
 ---
     
-## This page will tell you how to support *my developer life ☕
+## developer's life ☕
 
-<span class="label label-success">! Firstly,</span>
-I do not call anyone for help to me, and I do not require any donation from someone.
+Feel free to use my free programs, utilities, source codes, documentations, some info, and so on. *Under the license of course :)*
 
-Feel free to use my free programs, utilities, source codes, documentations, some info, and so on. *Under the license of course :)* *Usually it's open MIT, but don't forget look accompanying notes or license file.* Hope it's really helpful for you -_*
+However, I don't do business on my open projects/help/examples/and so on.
+Absolutely non-commercial activity 'as is' which is **completely non-profit** o_o. 
 
-However, I do not do business for my open projects/help/examples/and so on.
-Absolutely not commercial activity 'as is' which is **completely non-profit**. 
+This means my personal **non-profit aspirations that survives on donations!** Because I'm spending my time to develop anything, or to explaining something (including examples etc.).
 
-This means my personal **non-profit aspirations that survives on donations!** Because I'm also spending my time to develop anything, or to explaining something (including examples etc.).
-
-Thus, some donations, even small like a cup of coffee for me (for bugs, coffee first, you know :)), are really can help to support some new develop for existing things, or for some new, or just for thanks.
+Thus, some donations, even small like a cup of coffee for me ( *for bugs, coffee first,* you know :) ) really can support some new develop, or just for really "Thank you, Denis".
 
 <table align="center" width="96%" border="0" cellpadding="0" cellspacing="0">
  <tr>
    <td style="background:#5C9ECF; width:9px;"><span class="" aria-hidden="true"></span></td>
-   <td style="border:1px solid #AAAAAA; border-left:0px; padding:5px;">Briefly, or for your tl;dr: If something are helpful for you from me, donations are welcome, and thanks! :)</td>
+   <td style="border:1px solid #AAAAAA; border-left:0px; padding:5px;"><strong>tl;dr:</strong> If something is helpful from me, donations are welcome, and thanks! :)</td>
  </tr>
 </table>
 
 
 ## Donation  
 
+<span class="label label-success">! Firstly,</span>
+I do not call anyone for help to me. This is **optional.** Read above. !
+
 Please note my personal contacts, to be sure that's me.
 
 * entry.reg@gmail.com ( primary and the same as for github.com/3F )
 * xDev3F@gmail.com
 
-Contact with me via GitHub if you still not sure!
+Contact with me via **GitHub** if you still not sure!
 
 
 ### PayPal
@@ -73,17 +73,17 @@ For $ USD:
 
 Beneficiary bank
 Name:     PJSC "Promsvyazbank"
-SWIFT:     PRMSRUMM
-Address:     Stroenie 22:10, Smirnovskaya ul., Moscow, Russia
-Account with correspondent bank:     400942143
+SWIFT:    PRMSRUMM
+Address:  Stroenie 22:10, Smirnovskaya ul., Moscow, Russia
+Account with correspondent bank:  890-0536-209
 
 Correspondent bank
-Name:     JP Morgan Chase Bank
-SWIFT:     CHAS US 33
-Address:     New York New York, NY, USA
+Name:     The Bank of New York Mellon
+SWIFT:    IRVTUS3N
+Address:  One Wall Street, New York, NY 10286, USA
 
 Beneficiary
-Account:     40817840440000098336
+Account:  40817840440000098336
 Name:     Kuzmin Denis
 
 ==========
@@ -92,17 +92,17 @@ For € EUR:
 
 Beneficiary bank
 Name:     PJSC "Promsvyazbank"
-SWIFT:     PRMSRUMM
-Address:     Stroenie 22:10, Smirnovskaya ul., Moscow, Russia
-Account with correspondent bank:     0103495016
+SWIFT:    PRMSRUMM
+Address:  Stroenie 22:10, Smirnovskaya ul., Moscow, Russia
+Account with correspondent bank:  0103495016
 
 Correspondent bank
-Name:     VTB BANK (EUROPE) SE
+Name:      VTB BANK (EUROPE) SE
 SWIFT:     OWHBDEFF
-Address:     Rusterstrasse, 7-9 60325 Frankfurt am Main, Germany
+Address:   Rusterstrasse, 7-9 60325 Frankfurt am Main, Germany
 
 Beneficiary
-Account:     40817978640000099382
+Account:  40817978640000099382
 Name:     Kuzmin Denis
 
 ==========
