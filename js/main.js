@@ -1,11 +1,6 @@
 /*
- * Copyright (c) 2013-2018  Denis Kuzmin <entry.reg@gmail.com> :: github.com/3F
- *
- * Distributed under the MIT license
- * (see accompanying file LICENSE or a copy at http://opensource.org/licenses/MIT)
+** GitHub/3F   old drafts
 */
-
-/** TODO: old cubes, just don't know, to add something new special */
 
 'use strict';
 
@@ -19,7 +14,7 @@ class EffectCfg
     }
 };
 
-let ShortInfoPrototype =
+const ShortInfoPrototype =
 {
     EffectType:
     {
@@ -77,11 +72,11 @@ let ShortInfoPrototype =
 
     ctor: function(cubes, debug, onInit)
     {
-        cubes       = document.getElementById(cubes);
+        cubes       = document.getElementsByClassName(cubes)[0];
         this.debug  = debug;
 
-        if(this.isNull(cubes)) {
-            throw new SinfNullException('cubes');
+        if(!cubes) {
+            throw new Error('cubes not found');
         }
 
         let l = 'https://' + this.effects.cdn;
@@ -117,32 +112,16 @@ let ShortInfoPrototype =
         if(this.debug) {
             console.log(msg);
         }
-    },
-
-    isNull(val)
-    {
-        return val == null || val === undefined;
     }
 };
 
-let ShortInfo               = ShortInfoPrototype.ctor;
+const ShortInfo             = ShortInfoPrototype.ctor;
 ShortInfo.prototype         = ShortInfoPrototype;
 ShortInfo.prototype.ctor    = null;
 
-
-class SinfException
+document.addEventListener("DOMContentLoaded", function()
 {
-    constructor(message, arg)
-    {
-        this.message    = message;
-        this.arg        = arg;
-    }
-}
-
-class SinfNullException extends SinfException
-{
-    constructor(...args)
-    {
-        super("'" + args + "' cannot be null.", null);
-    }
-}
+    let info = new ShortInfo('pre-cubes', false, function() {
+        info.show();
+    });
+});

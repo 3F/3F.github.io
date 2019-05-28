@@ -1,72 +1,72 @@
 ---
 layout: ascetic
-title: Donation
-icon: /img/pig-heart.png
+title: ☕ Donation
+icon: none.ico
 permalink: /Donation/
 ---
-    
-## developer's life ☕
 
-Feel free to use my free programs, utilities, source codes, documentations, some info, and so on. *Under the license of course :)*
+## ☕
 
-However, I don't do business on my open projects/help/examples/and so on.
-Absolutely non-commercial activity 'as is' which is **completely non-profit** o_o. 
+Hey! Let's try to develop more free software and lot of other amazing things for everyone!
 
-This means my personal **non-profit aspirations that survives on donations!** Because I'm spending my time to develop anything, or to explaining something (including examples etc.).
+<a href="https://www.patreon.com/bePatron?u=20501320" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script> | <a href='https://ko-fi.com/R5R1W3WV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | PayPal [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=entry%2ereg%40gmail%2ecom&lc=US&item_name=Open%20Source%20%5b%20GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
+--------------|-------------|-------
+[patreon.com/**GitHub3F**](https://www.patreon.com/GitHub3F) | [ko-fi.com/**github3f**](https://ko-fi.com/github3f) | [(entry.reg@gmail.com)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=entry%2ereg%40gmail%2ecom&lc=US&item_name=Open%20Source%20%5b%20GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
 
-Thus, some donations, even small like a cup of coffee for me ( *for bugs, coffee first,* you know :) ) really can support some new develop, or just for really "Thank you, Denis".
+This is me [GitHub/3F](https://github.com/3F) and I want to be able to do more Open Source Projects and more for Open Source at all.
 
-<table align="center" width="96%" border="0" cellpadding="0" cellspacing="0">
- <tr>
-   <td style="background:#5C9ECF; width:9px;"><span class="" aria-hidden="true"></span></td>
-   <td style="border:1px solid #AAAAAA; border-left:0px; padding:5px;"><strong>tl;dr:</strong> If something is helpful from me, donations are welcome, and thanks! :)</td>
- </tr>
-</table>
+Feel the real freedom when using my free programs, tools, source codes, projects support, documentations, and lot of other related things.
 
+No Ads! no Spam! no Scam! no Trojans! only the best things from my professional 10+ years skills (see below).
 
-## Donation  
+And this is my non-commercial activity 'as is' which *completely non-profit* for me o_o'
 
-<span class="label label-success">! Firstly,</span>
-I do not call anyone for help to me. This is **optional.** Read above. !
+My personal **non-profit aspirations that survives on donations.** *Because this is my personal time to develop anything, or to explaining something (including examples etc.).*
 
-Please note my personal contacts, to be sure that's me.
+Your support really helps me to continue, or just for really "Thank you, Denis"!
+
+Any donations are welcomed, even for bugs ☕ coffee first you know :)
+Enjoy with me ^_^
+
+<br />
+
+## Donations
+
+I do not call anyone for help to me. This is optional of course!
+
+To be sure that is me, you can contact via **GitHub**, or use:
 
 * entry.reg@gmail.com ( primary and the same as for github.com/3F )
 * xDev3F@gmail.com
 
-Contact with me via **GitHub** if you still not sure!
+<br />
 
+### Why Bank accounts?
 
-### PayPal
+PayPal and third-party web-donation-products that uses PayPal for payments (like **ko-fi** above): Actually, are not so convenient due to currency conversion to ₽ (RUR) **even if I have** my bank account in $ (USD)! This is official policy of PayPal: 
 
-* For any sum: [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=entry%2ereg%40gmail%2ecom&lc=US&item_name=3F%2dOpenSource%20%5b%20github%2ecom%2f3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) (entry.reg@gmail.com)
-
-* Just a cup of coffee for me: **[ [☕](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=entry%2ereg%40gmail%2ecom&lc=US&item_name=3F%2dOpenSource%20%5b%20github%2ecom%2f3F&amount=3%2e95&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) ]**
-
-Actually, this is not so convenient for me because of required currency conversion to ₽ (RUR) even if I have my bank account in $ (USD). This is official policy of PayPal: 
-
-> ~"Only ₽ (RUR) for adding new bank account **in your profile** because of selected country ... " they said :(  
-
-*p.s.: this button should be fixed now, but if it's still not, please contact with me, or try other options below.*
+> ~"Only ₽ (RUR) for adding new bank account **in your profile** because of selected country ... " they said :(
 
 ### Bank accounts ( $ USD, € EUR, ... )
 
-You can use **any comfortable way for you** to send directly for my bank accounts below. This is more convenient option at least for me.
+You can use **any comfortable way for you** to send any sum directly to my bank accounts below without an additional currency conversion. This is more convenient option at least for me.
 
-<span class="label label-warning">Please note:</span> for non-commercial/non-profit purposes like ~ donation for non-commercial free open source project, and so on.
+<span class="label label-warning">Please note:</span> 
+1. For non-commercial purposes like ~ donation for non-commercial free open source project, github.com/3F, and so on.
+2. Possible additional **Fees** and charges depends on your payment methods. You need to check this yourself. And of course you can just subtract this from total amount, as you like.
 
 Contact with me if needed.
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">Bank accounts for non-commercial/non-profit purposes</h3>
+    <h3 class="panel-title">Bank accounts for non-commercial purposes</h3>
   </div>
   <ul class="nav nav-tabs" style="margin-left: 0;">
     <li id="iUSD"><a aria-expanded="true" href="#iUSD" data-toggle="tab">$ (USD)</a></li>
     <li id="iEUR"><a aria-expanded="false" href="#iEUR" data-toggle="tab">€ (EUR)</a></li>
     <li id="iRUR"><a aria-expanded="false" href="#iRUR" data-toggle="tab">₽ (RUR)</a></li>    
   </ul>
-  <pre id="content" class="panel-body tab-content" style="overflow: auto; height: 270px;">
+  <pre id="content" class="panel-body tab-content" style="overflow: auto; height: 280px;">
 ==========
 For $ USD:
 ==========
@@ -75,9 +75,15 @@ Beneficiary bank
 Name:     PJSC "Promsvyazbank"
 SWIFT:    PRMSRUMM
 Address:  Stroenie 22:10, Smirnovskaya ul., Moscow, Russia
-Account with correspondent bank:  890-0536-209
+Account with correspondent bank:  30109840200000003251
 
 Correspondent bank
+Name:     SVIAZ-BANK (Interregional Bank for Settlements of the Telecommunications and Postal Services)
+SWIFT:    SVIZRUMM
+Address:  Novoryazanskaya Ul. 31/7 Korpus 2 105066 Moscow
+Account with intermediary bank: 8900661097
+
+Intermediary bank
 Name:     The Bank of New York Mellon
 SWIFT:    IRVTUS3N
 Address:  One Wall Street, New York, NY 10286, USA
@@ -97,9 +103,9 @@ Address:  Stroenie 22:10, Smirnovskaya ul., Moscow, Russia
 Account with correspondent bank:  0103495016
 
 Correspondent bank
-Name:      VTB BANK (EUROPE) SE
-SWIFT:     OWHBDEFF
-Address:   Rusterstrasse, 7-9 60325 Frankfurt am Main, Germany
+Name:     VTB BANK (EUROPE) SE
+SWIFT:    OWHBDEFF
+Address:  Rusterstrasse, 7-9 60325 Frankfurt am Main, Germany
 
 Beneficiary
 Account:  40817978640000099382
@@ -109,12 +115,12 @@ Name:     Kuzmin Denis
 For ₽ RUR:
 ==========
 
-Банк получателя: ПАО "Промсвязьбанк" г.Москва 
+Банк получателя: ПАО "Промсвязьбанк" г.Москва
 
-БИК: 044525555 
-Корр.счет: 30101810400000000555 
+БИК: 044525555
+Корр.счет: 30101810400000000555
 
-Получатель: Кузьмин Денис Иванович 
+Получатель: Кузьмин Денис Иванович
 Счет получателя: 40817810740000056516
 
   </pre>
@@ -148,19 +154,34 @@ For ₽ RUR:
     });
 </script>
 
-### Other way
+### Sponsor badges
 
-Contact with me directly: 
+*If you want to be a notable sponsor for some projects (or me directly).*
+
+* Follow the project information if exists.
+* You can also create an issue or even use PR to add text-based record about your donations for the readme file and so on.
+* Most valuable supporter can also add some logo image etc. 
+
+Contact with me:
 
 * [entry.reg@gmail.com](mailto:entry.reg@gmail.com) (Please do not send me reports about problems from my open source projects via this! Use GitHub Issue Tracker instead. It helps to coordinate my tasks better.)
 
+### About
+
+Briefly, I'm professional software developer with more than 10+ years of experience in various fields ... math statistics, compilers themselves and virtual machines in the form of modifications, addins, lot of plugins and subsets for different popular programs like VS, additional independent libraries, utilities, tools and so on.
+
+I'm also Open Source developer and my actual Open (and absolutely Free) public projects you can find mostly on [ GitHub/3F ]
 
 ## Thank you! 
 
 *If you still here :)*
 
-I want to say thank you for everyone who understands this important things! It really helps to me to continue. 
+I want to say thanks for everyone who understands this important things!
 
-Let's try to develop more free software and lot of other amazing things! 
+Thank you 💕
+
+Let's do even more interesting things together 💪
+
+*Be first, Follow the news: [https://github.com/3F](https://github.com/3F)*
 
 <a id="Enjoy" href="#Enjoy" class="btn btn-default">Enjoy! ^_^</a>
