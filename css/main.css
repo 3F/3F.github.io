@@ -49,3 +49,29 @@ blockquote .small, a {
 img {
     border: 0;
 }
+
+.svg-ico {
+    height: 18px;
+    width: 18px;
+    margin-left: 10px;
+}
+
+.ico-color {
+    filter: grayscale(1) opacity(.9);
+}
+
+.ico-color:hover {
+    filter: none;
+}
+
+.ico-gray {
+    filter: grayscale(1) opacity(.45);
+}
+
+.ico-gray:hover {
+    filter: none;
+}
+
+a + .svg-ico {
+    text-decoration: none;
+}

@@ -7,11 +7,12 @@ permalink: /Donation/
 
 ## ☕
 
-Hey! Let's try to develop more free software and lot of other amazing things for everyone!
+Hey! Let's try to develop more Free Software and lot of Other Awesome things For everyone!
 
-<a href="https://www.patreon.com/bePatron?u=20501320" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script> | <a href='https://ko-fi.com/R5R1W3WV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | PayPal [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=entry%2ereg%40gmail%2ecom&lc=US&item_name=Open%20Source%20%5b%20GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
+<a href="https://www.patreon.com/bePatron?u=20501320" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script> | <a href='https://ko-fi.com/R5R1W3WV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | PayPal [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=entry%2ereg%40gmail%2ecom&lc=US&item_name=Open%20Source%20%5b%20GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) 
 --------------|-------------|-------
-[patreon.com/**GitHub3F**](https://www.patreon.com/GitHub3F) | [ko-fi.com/**github3f**](https://ko-fi.com/github3f) | [(entry.reg@gmail.com)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=entry%2ereg%40gmail%2ecom&lc=US&item_name=Open%20Source%20%5b%20GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
+[patreon.com/**GitHub3F**](https://www.patreon.com/GitHub3F) | [ko-fi.com/**github3f**](https://ko-fi.com/github3f) | [(entry.reg@gmail.com)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=entry%2ereg%40gmail%2ecom&lc=US&item_name=Open%20Source%20%5b%20GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) 
+  |  |  | [paypal.me/**GitHub3F**](https://www.paypal.me/GitHub3F) 
 
 This is me [GitHub/3F](https://github.com/3F) and I want to be able to do more Open Source Projects and more for Open Source at all.
 
