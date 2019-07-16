@@ -9,10 +9,10 @@ permalink: /Donation/
 
 Hey! Let's try to develop more Free Software and lot of Other Awesome things For everyone!
 
-<a href="https://www.patreon.com/bePatron?u=20501320" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script> | <a href='https://ko-fi.com/R5R1W3WV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | PayPal [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=entry%2ereg%40gmail%2ecom&lc=US&item_name=Open%20Source%20%5b%20GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) 
+<a href="https://www.patreon.com/bePatron?u=20501320"><img height='36' style='border:0px;height:36px;' src='/img/become_a_patron_button.png' border='0' alt="Become a Patron!" /></a> | <a href='https://ko-fi.com/R5R1W3WV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | PayPal [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=entry%2ereg%40gmail%2ecom&lc=US&item_name=Open%20Source%20GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) 
 --------------|-------------|-------
-[patreon.com/**GitHub3F**](https://www.patreon.com/GitHub3F) | [ko-fi.com/**github3f**](https://ko-fi.com/github3f) | [(entry.reg@gmail.com)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=entry%2ereg%40gmail%2ecom&lc=US&item_name=Open%20Source%20%5b%20GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) 
-  |  |  | [paypal.me/**GitHub3F**](https://www.paypal.me/GitHub3F) 
+[patreon.com/**GitHub3F**](https://www.patreon.com/GitHub3F) | [ko-fi.com/**github3f**](https://ko-fi.com/github3f) | [(entry.reg@gmail.com)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=entry%2ereg%40gmail%2ecom&lc=US&item_name=Open%20Source%20GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) 
+ &nbsp; |  | [paypal.me/**GitHub3F**](https://www.paypal.me/GitHub3F) 
 
 This is me [GitHub/3F](https://github.com/3F) and I want to be able to do more Open Source Projects and more for Open Source at all.
 
@@ -35,10 +35,10 @@ Enjoy with me ^_^
 
 I do not call anyone for help to me. This is optional of course!
 
-To be sure that is me, you can contact via **GitHub**, or use:
+To be sure that is me contact via **GitHub** or use my `Copyright` contacts:
 
-* entry.reg@gmail.com ( primary and the same as for github.com/3F )
-* xDev3F@gmail.com
+* entry.reg@gmail.com ( same for github.com/3F at July 2019 )
+* x-3F@outlook.com ( planned to be primary soon for all public communications )
 
 <br />
 
@@ -169,9 +169,10 @@ Contact with me:
 
 ### About
 
-Briefly, I'm professional software developer with more than 10+ years of experience in various fields ... math statistics, compilers themselves and virtual machines in the form of modifications, addins, lot of plugins and subsets for different popular programs like VS, additional independent libraries, utilities, tools and so on.
+Pro& OpenSource Software Developer with 10y+ of experience in various fields ... Math statistics, Analyzers, Compilers/VM, lot of plugins, libs, tools, … I love 🖼️🎹🎻🚴‍…
 
-I'm also Open Source developer and my actual Open (and absolutely Free) public projects you can find mostly on [ GitHub/3F ]
+Today's actual Open (and absolutely Free) public projects you can find mostly on [ GitHub/3F ]
+(migrated at the end of 2016)
 
 ## Thank you! 
 
@@ -185,4 +186,4 @@ Let's do even more interesting things together 💪
 
 *Be first, Follow the news: [https://github.com/3F](https://github.com/3F)*
 
-<a id="Enjoy" href="#Enjoy" class="btn btn-default">Enjoy! ^_^</a>
+<a href="/" class="btn btn-default">Enjoy! ^_^</a>

@@ -75,3 +75,11 @@ img {
 a + .svg-ico {
     text-decoration: none;
 }
+
+a:hover {
+    text-decoration: none;
+}
+
+.qaddr {
+    font-size: 80%;
+}

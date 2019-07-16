@@ -4,3 +4,8 @@
 License: Creative Commons (Attribution 3.0 Unported)
 url: https://www.iconfinder.com/icons/2903200/heart_money_pig_icon
 by Vandelay Design http://www.vandelaydesign.com
+
+## become_a_patron_button.png
+
+* https://www.patreon.com/brand
+  https://c5.patreon.com/external/logo/become_a_patron_button.png
