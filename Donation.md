@@ -1,18 +1,19 @@
 ---
 layout: ascetic
-title: ☕ Donation
+title: ☕ 3F
 icon: none.ico
 permalink: /Donation/
 ---
 
 ## ☕
 
-Hey! Let's try to develop more Free Software and lot of Other Awesome things For everyone!
+Let's try to develop more Free Software and lot of Other Awesome things For everyone!
 
-<a href="https://www.patreon.com/bePatron?u=20501320"><img height='36' style='border:0px;height:36px;' src='/img/become_a_patron_button.png' border='0' alt="Become a Patron!" /></a> | <a href='https://ko-fi.com/R5R1W3WV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | PayPal [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=entry%2ereg%40gmail%2ecom&lc=US&item_name=Open%20Source%20GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) 
---------------|-------------|-------
-[patreon.com/**GitHub3F**](https://www.patreon.com/GitHub3F) | [ko-fi.com/**github3f**](https://ko-fi.com/github3f) | [(entry.reg@gmail.com)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=entry%2ereg%40gmail%2ecom&lc=US&item_name=Open%20Source%20GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) 
- &nbsp; |  | [paypal.me/**GitHub3F**](https://www.paypal.me/GitHub3F) 
+*`n e w`* <br /> <a href='https://ko-fi.com/R5R1W3WV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | *`n e w`* <br /> <a href="https://www.patreon.com/bePatron?u=20501320"><img height='36' style='border:0px;height:36px;' src='/img/become_a_patron_button.png' border='0' alt="Become a Patron" /></a> | PayPal [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=x-3F%40outlook%2ecom&lc=US&item_name=GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) | Bank accounts 
+--------------|-------------|-------|------
+[ko-fi.com/**github3f**](https://ko-fi.com/github3f) | [patreon.com/**GitHub3F**](https://www.patreon.com/GitHub3F) | *`n e w`* <br /> [**(x-3F@outlook.com)**](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=x-3F%40outlook%2ecom&lc=US&item_name=GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) | [ [$ USD](#iUSD) ] 
+ &nbsp; | &nbsp; | [*(entry.reg@gmail.com)*](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=entry%2ereg%40gmail%2ecom&lc=US&item_name=Open%20Source%20GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) | [ [₽ RUR](#iRUR) ]
+ &nbsp; | &nbsp; | *`n e w`* <br /> [paypal.me/**GitHub3F**](https://www.paypal.me/GitHub3F) | [ [€ EUR](#iEUR) ] 
 
 This is me [GitHub/3F](https://github.com/3F) and I want to be able to do more Open Source Projects and more for Open Source at all.
 
@@ -24,25 +25,61 @@ And this is my non-commercial activity 'as is' which *completely non-profit* for
 
 My personal **non-profit aspirations that survives on donations.** *Because this is my personal time to develop anything, or to explaining something (including examples etc.).*
 
-Your support really helps me to continue, or just for really "Thank you, Denis"!
+Your support really helps to keep all this are open and free and moreover helps me to continue. Or just for really "Thank you, Denis"!
 
 Any donations are welcomed, even for bugs ☕ coffee first you know :)
 Enjoy with me ^_^
+
+Contact with me: [{{ site.email }}](mailto:{{ site.email }})
 
 <br />
 
 ## Donations
 
-I do not call anyone for help to me. This is optional of course!
+I do not call anyone for help to me. This is only your choice of course! 
 
-To be sure that is me contact via **GitHub** or use my `Copyright` contacts:
+All features are free and open for everyone. I mean, I never did like this and am not going to do: 
 
-* entry.reg@gmail.com ( same for github.com/3F at July 2019 )
-* x-3F@outlook.com ( planned to be primary soon for all public communications )
+* [https://twitter.com/GitHub3F/status/1163581512366874625](https://twitter.com/GitHub3F/status/1163581512366874625) (this is a **wrong** *Donationware* software)
+
+`Please` [report me](mailto:{{ site.email }}) if you've noticed some problem or question related to donation method or something else.
+
+## My Copyrights
+
+To be sure contact through **GitHub** or just use my `Copyright` contacts:
+
+* **`{{ site.email }}`** ( same for github.com/3F at January 2020; all public communications )
+* [`{{ site.email0 }}`](https://twitter.com/GitHub3F/status/1204167272312512512) ( *obsolete* as of 2020 [[?](https://twitter.com/GitHub3F/status/1204167272312512512)] )
+
+Some of the possible in past and today, such as:
+
+```
+Copyright (c) 2014-2019  Denis Kuzmin < x-3F@outlook.com > GitHub/3F
+```
+
+```
+Copyright (c) 2013-2016,2019  Denis Kuzmin < entry.reg@gmail.com > GitHub/3F
+```
+
+```
+Copyright (c) 2013, 2014, 2016, 2017  Denis Kuzmin <entry.reg@gmail.com>
+```
+
+```
+Copyright (c) 2017  Denis Kuzmin < entry.reg@gmail.com > :: github.com/3F
+```
+
+```
+Copyright (c) 2016  Denis Kuzmin (reg) <entry.reg@gmail.com>
+```
+
+```
+Copyright (c) 2013 Developed by reg <entry.reg@gmail.com>
+```
 
 <br />
 
-### Why Bank accounts?
+### PayPal vs direct Bank accounts
 
 PayPal and third-party web-donation-products that uses PayPal for payments (like **ko-fi** above): Actually, are not so convenient due to currency conversion to ₽ (RUR) **even if I have** my bank account in $ (USD)! This is official policy of PayPal: 
 
@@ -155,19 +192,17 @@ For ₽ RUR:
     });
 </script>
 
-### Sponsor badges
+### For Sponsors 
 
 *If you want to be a notable sponsor for some projects (or me directly).*
 
 * Follow the project information if exists.
+* Try my new Patreon or Ko-fi way above to be a notable for public information.
 * You can also create an issue or even use PR to add text-based record about your donations for the readme file and so on.
-* Most valuable supporter can also add some logo image etc. 
+* Most valuable supporter can also add some logo image etc.
 
-Contact with me:
 
-* [entry.reg@gmail.com](mailto:entry.reg@gmail.com) (Please do not send me reports about problems from my open source projects via this! Use GitHub Issue Tracker instead. It helps to coordinate my tasks better.)
-
-### About
+### Brief About
 
 Pro& OpenSource Software Developer with 10y+ of experience in various fields ... Math statistics, Analyzers, Compilers/VM, lot of plugins, libs, tools, … I love 🖼️🎹🎻🚴‍…
 
@@ -178,7 +213,7 @@ Today's actual Open (and absolutely Free) public projects you can find mostly on
 
 *If you still here :)*
 
-I want to say thanks for everyone who understands this important things!
+I want to say thanks to everyone who understands this important things!
 
 Thank you 💕
 
