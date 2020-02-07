@@ -9,28 +9,26 @@ permalink: /Donation/
 
 Let's try to develop more Free Software and lot of Other Awesome things For everyone!
 
-*`n e w`* <br /> <a href='https://ko-fi.com/R5R1W3WV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | *`n e w`* <br /> <a href="https://www.patreon.com/bePatron?u=20501320"><img height='36' style='border:0px;height:36px;' src='/img/become_a_patron_button.png' border='0' alt="Become a Patron" /></a> | PayPal [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=x-3F%40outlook%2ecom&lc=US&item_name=GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) | Bank accounts 
+*`n e w`* <br /> <a href='https://ko-fi.com/R5R1W3WV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | *`n e w`* <br /> <a href="https://www.patreon.com/bePatron?u=20501320"><img height='36' style='border:0px;height:36px;' src='/img/become_a_patron_button.png' border='0' alt="Become a Patron" /></a> | PayPal [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=x-3F%40outlook%2ecom&lc=US&item_name=GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) | Bank accounts for non-commercial purposes
 --------------|-------------|-------|------
-[ko-fi.com/**github3f**](https://ko-fi.com/github3f) | [patreon.com/**GitHub3F**](https://www.patreon.com/GitHub3F) | *`n e w`* <br /> [**(x-3F@outlook.com)**](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=x-3F%40outlook%2ecom&lc=US&item_name=GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) | [ [$ USD](#iUSD) ] 
+[ko-fi.com/**github3f**](https://ko-fi.com/github3f) | [patreon.com/**GitHub3F**](https://www.patreon.com/GitHub3F) | *`n e w`* &nbsp; [**(x-3F@outlook.com)**](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=x-3F%40outlook%2ecom&lc=US&item_name=GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) | [ [$ USD](#iUSD) ] 
  &nbsp; | &nbsp; | [*(entry.reg@gmail.com)*](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=entry%2ereg%40gmail%2ecom&lc=US&item_name=Open%20Source%20GitHub%2F3F&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) | [ [₽ RUR](#iRUR) ]
- &nbsp; | &nbsp; | *`n e w`* <br /> [paypal.me/**GitHub3F**](https://www.paypal.me/GitHub3F) | [ [€ EUR](#iEUR) ] 
+ &nbsp; | &nbsp; | *`n e w`* &nbsp; [paypal.me/**GitHub3F**](https://www.paypal.me/GitHub3F) | [ [€ EUR](#iEUR) ] 
 
 This is me [GitHub/3F](https://github.com/3F) and I want to be able to do more Open Source Projects and more for Open Source at all.
 
-Feel the real freedom when using my free programs, tools, source codes, projects support, documentations, and lot of other related things.
+Feel the real freedom when using my free programs, tools, source codes, projects support, documentations, and lot of other related things. Because no Ads! no Spam! no Scam! no Trojans! only the best things from my professional [10+ years skills](#brief-about).
 
-No Ads! no Spam! no Scam! no Trojans! only the best things from my professional 10+ years skills (see below).
+And this is my non-commercial activity 'as is' which *completely non-profit* for me o_o' My personal **non-profit aspirations that survives on donations.** *Because this is my personal time to develop anything, or to explain something (+ examples etc).*
 
-And this is my non-commercial activity 'as is' which *completely non-profit* for me o_o'
-
-My personal **non-profit aspirations that survives on donations.** *Because this is my personal time to develop anything, or to explaining something (including examples etc.).*
-
-Your support really helps to keep all this are open and free and moreover helps me to continue. Or just for really "Thank you, Denis"!
+Your support really helps keep all this *free* and even *open*! Moreover helps me to continue; Or just for "Thank you, Denis"!
 
 Any donations are welcomed, even for bugs ☕ coffee first you know :)
-Enjoy with me ^_^
+Enjoy with me ^_^ Contact with me: [{{ site.email }}](mailto:{{ site.email }})
 
-Contact with me: [{{ site.email }}](mailto:{{ site.email }})
+<br />
+
+*Any commercial organisations **must** consider donations based on their profit or any their benefit when using `"me"` and my free products!* Thanks!
 
 <br />
 
@@ -42,7 +40,7 @@ All features are free and open for everyone. I mean, I never did like this and a
 
 * [https://twitter.com/GitHub3F/status/1163581512366874625](https://twitter.com/GitHub3F/status/1163581512366874625) (this is a **wrong** *Donationware* software)
 
-`Please` [report me](mailto:{{ site.email }}) if you've noticed some problem or question related to donation method or something else.
+Please [report me](mailto:{{ site.email }}) if you've noticed some problem or question related to donation method or something else.
 
 ## My Copyrights
 
@@ -51,10 +49,10 @@ To be sure contact through **GitHub** or just use my `Copyright` contacts:
 * **`{{ site.email }}`** ( same for github.com/3F at January 2020; all public communications )
 * [`{{ site.email0 }}`](https://twitter.com/GitHub3F/status/1204167272312512512) ( *obsolete* as of 2020 [[?](https://twitter.com/GitHub3F/status/1204167272312512512)] )
 
-Some of the possible in past and today, such as:
+You can find some of the possible in past or today's, such as:
 
 ```
-Copyright (c) 2014-2019  Denis Kuzmin < x-3F@outlook.com > GitHub/3F
+Copyright (c) 2014-2020  Denis Kuzmin < x-3F@outlook.com > GitHub/3F
 ```
 
 ```
@@ -91,7 +89,7 @@ You can use **any comfortable way for you** to send any sum directly to my bank 
 
 <span class="label label-warning">Please note:</span> 
 1. For non-commercial purposes like ~ donation for non-commercial free open source project, github.com/3F, and so on.
-2. Possible additional **Fees** and charges depends on your payment methods. You need to check this yourself. And of course you can just subtract this from total amount, as you like.
+2. Possible additional **Fees** and charges depends on your payment methods. You need to check this yourself. And of course you can just subtract this from total amount, as you prefer.
 
 Contact with me if needed.
 
@@ -113,13 +111,13 @@ Beneficiary bank
 Name:     PJSC "Promsvyazbank"
 SWIFT:    PRMSRUMM
 Address:  Stroenie 22:10, Smirnovskaya ul., Moscow, Russia
-Account with correspondent bank:  30109840200000003251
+Account with correspondent bank: 30109840200000000003
 
 Correspondent bank
-Name:     SVIAZ-BANK (Interregional Bank for Settlements of the Telecommunications and Postal Services)
-SWIFT:    SVIZRUMM
-Address:  Novoryazanskaya Ul. 31/7 Korpus 2 105066 Moscow
-Account with intermediary bank: 8900661097
+Name:     BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)
+SWIFT:    JSNMRUMM
+Address:  BLD.4, LETNIKOVSKAYA STREET 2 115114 MOSCOW
+Account with intermediary bank: 890-0584-157
 
 Intermediary bank
 Name:     The Bank of New York Mellon
@@ -138,7 +136,7 @@ Beneficiary bank
 Name:     PJSC "Promsvyazbank"
 SWIFT:    PRMSRUMM
 Address:  Stroenie 22:10, Smirnovskaya ul., Moscow, Russia
-Account with correspondent bank:  0103495016
+Account with correspondent bank: 0103495016
 
 Correspondent bank
 Name:     VTB BANK (EUROPE) SE
@@ -204,7 +202,7 @@ For ₽ RUR:
 
 ### Brief About
 
-Pro& OpenSource Software Developer with 10y+ of experience in various fields ... Math statistics, Analyzers, Compilers/VM, lot of plugins, libs, tools, … I love 🖼️🎹🎻🚴‍…
+I am Software Developer with 10y+ of experience in various fields ... Analyzers/Parsers, Compilers/VM, Math, Stats, lot of plugins, libs, tools,… I love 🖼️🎹🎻🚴‍…
 
 Today's actual Open (and absolutely Free) public projects you can find mostly on [ GitHub/3F ]
 (migrated at the end of 2016)
