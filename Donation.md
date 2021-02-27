@@ -7,88 +7,32 @@ permalink: /Donation/
 
 ## ☕
 
-Let's try to develop more Free Software and lot of Other Awesome things For everyone!
-
-*`n e w`* <br /> <a href='https://ko-fi.com/R5R1W3WV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | *`n e w`* <br /> <a href="https://www.patreon.com/bePatron?u=20501320"><img height='36' style='border:0px;height:36px;' src='/img/become_a_patron_button.png' border='0' alt="Become a Patron" /></a> | PayPal <br/>x-3F@outlook.com <br/>- [paypal.me/**GitHub3F**](https://www.paypal.me/GitHub3F) | Bank accounts for non-commercial purposes
+*`n e w`* <br /> <a href='https://ko-fi.com/github3f' target='_blank'><img height='28' style='border:0px;height:28px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee' /></a> | *`n e w`* <br /> <a href="https://www.patreon.com/GitHub3F"><img height='28' style='border:0px;height:28px;' src='/img/become_a_patron_button.png' border='0' alt="Become a Patron" /></a> | PayPal <br/>x-3F@outlook.com | Bank accounts for non-commercial purposes
 --------------|-------------|-------|------
-[ko-fi.com/**github3f**](https://ko-fi.com/github3f) | [patreon.com/**GitHub3F**](https://www.patreon.com/GitHub3F) | Donations are no longer available for individual accounts [[?](#paypal-restrictions)] | [ [$ USD](#iUSD) ] [ [₽ RUR](#iRUR) ] [ [€ EUR](#iEUR) ] 
+[ko-fi.com/**github3f**](https://ko-fi.com/github3f) | [patreon.com/**GitHub3F**](https://www.patreon.com/GitHub3F) | [paypal.me/**GitHub3F**](https://www.paypal.me/GitHub3F) <br />!About <a href="/Donation/PayPal/limitations/" target="blank">PayPal limitations</a> | [`[$USD]`](#iUSD) [`[₽RUR]`](#iRUR) [`[€EUR]`](#iEUR) 
 
-This is me [GitHub/3F](https://github.com/3F) and I want to be able to do more Open Source Projects and more for Open Source at all.
+You can easily support [**me**](https://github.com/3F) and my work!
 
-Feel the real freedom when using my free programs, tools, source codes, projects support, documentations, and lot of other related things. Because no Ads! no Spam! no Scam! no Trojans! only the best things from my professional [10+ years skills](#brief-about).
+Free Software products and lot of other amazing things like various programs, tools, scripts, libraries, compilers, parsers, helpers, source codes, projects support, documentations, and many other related where no Ads! no Spam! no Scam! no Trojans! Only the best from my professional [10+ years skills](#brief-about-me).
 
-And this is my non-commercial activity 'as is' which *completely non-profit* for me o_o' My personal **non-profit aspirations that survives on donations.** *Because this is my personal time to develop anything, or to explain something (+ examples etc).*
+Your any even small ☕ support helps me keep all the features *free* and even *open* !
 
-Your support really helps keep all this *free* and even *open*! Moreover helps me to continue; Or just for "Thank you, Denis"!
+\**Commercial organisations **must** consider recurring donations if they have profit or benefit by indirectly using me and my free products!*
 
-Any donations are welcomed, even for bugs ☕ coffee first you know :)
-Enjoy with me ^_^ Contact with me: [{{ site.email }}](mailto:{{ site.email }})
+#### Contacts
+
+Use my contact information from the official [**GitHub**](https://github.com/3F) page. For 2021, `{{ site.email }}` emails should be signed using the same GPG keys as for GitHub. For example, GPG key ID: [*87D912D7C31E50AC*](http://keys.gnupg.net/pks/lookup?search=0x87D912D7C31E50AC&fingerprint=on&hash=on&exact=on&op=index) ([public key](http://keys.gnupg.net/pks/lookup?op=get&search=0x87D912D7C31E50AC) and github [verification](https://github.com/3F/UnmanagedEmitCalli/commit/cf6dea8f8da46f9b5b6c71b22432140d4149739d) etc.)
+
+Note: [`{{ site.email0 }}`](https://twitter.com/GitHub3F/status/1204167272312512512) ( *obsolete*, 2009 - 2020 [[?](https://twitter.com/GitHub3F/status/1204167272312512512)] )
 
 <br />
 
-*Any commercial organisations **must** consider donations based at least on their profit or any their benefit when *indirectly* using `me` and my free products!* Thanks!
+### Bank accounts
 
-<br />
-
-## Donations
-
-I do not call anyone for help to me. This is only your choice of course! 
-
-All features are free and open for everyone. I mean, I never did like this and am not going to do: 
-
-* [https://twitter.com/GitHub3F/status/1163581512366874625](https://twitter.com/GitHub3F/status/1163581512366874625) (this is a **wrong** *Donationware* software)
-
-Please also [report me](mailto:{{ site.email }}) if you've noticed some problem or question related to donation method or something else.
-
-<br/>
-
-## My Copyrights
-
-To be sure contact through **GitHub** or just use my `Copyright` contacts:
-
-* **`{{ site.email }}`** ( same for github.com/3F at June 2020; all public communications )
-* [`{{ site.email0 }}`](https://twitter.com/GitHub3F/status/1204167272312512512) ( *obsolete* as of 2020 [[?](https://twitter.com/GitHub3F/status/1204167272312512512)] )
-
-You can find some of the possible in past or today's, such as:
-
-```
-Copyright (c) 2014-2020  Denis Kuzmin < x-3F@outlook.com > GitHub/3F
-```
-```
-Copyright (c) 2016  Denis Kuzmin (reg) <entry.reg@gmail.com>
-```
-```
-Copyright (c) 2013 Developed by reg <entry.reg@gmail.com>
-```
-```
-Copyright (c) 2013, 2014, 2016, 2017  Denis Kuzmin <entry.reg@gmail.com>
-```
-... ~
-
-<br/>
-
-### PayPal restrictions
-
-Unfortunately, PayPal donations are no longer available in Russia for *individual* accounts. Please consider other possible way. I hope for your understanding. Thank you! The original official PayPal reply 2020.06.10:
-
-> Возможность приема пожертвований доступна **только для коммерческих акаунтов.** Но их можно открыть **только на юридическое лицо**.
-
-> Пока что мы ведем переговоры с *Центральным Банком* о *возобновлении* этой функции, но ввиду сложной законодательства не могу говорить о конкретных сроках.
-
-~
-
-> The ability to accept donations are available **only for commercial accounts.** But they can be opened **only on a legal entity** (n. not for individual accounts)
-
-> We are negotiating with the *Central Bank* to *restore* this opportunity, but I can't talk about specific dates due to complex legislation (n. Russia).
-
-<br/>
-
-### Bank accounts ( $ USD, € EUR, ... )
-
-1. For non-commercial purposes like ~ donation for non-commercial free open source project, github.com/3F, and so on.
+1. For non-commercial purposes. Such as donation for non-commercial free open source project/author; github.com/3F ; and so on.
 2. Possible additional **Fees** and charges depends on your payment methods. You need to check this yourself. And of course you can just subtract this from total amount, as you prefer.
 
-Contact with me if needed.
+Contact if needed!
 
 <div class="panel panel-primary">
   <div class="panel-heading">
@@ -159,54 +103,11 @@ For ₽ RUR:
   </pre>
 </div>
 
-<script>
-    document.addEventListener("DOMContentLoaded", function()
-    {
-        'use strict';
-
-        var _= function(id) {
-            return document.getElementById(id);
-        };
-        
-        let accounts = _('content').innerHTML.split("==========");
-        
-        _('iUSD').addEventListener("click", function(){
-            _('content').innerHTML = accounts[2].trim();
-        });
-
-        _('iEUR').addEventListener("click", function(){
-            _('content').innerHTML = accounts[4].trim();
-        });
-
-        _('iRUR').addEventListener("click", function(){
-            _('content').innerHTML = accounts[6].trim();
-        });
-        
-        _("iUSD").click();
-        _("iUSD").classList.add("active");
-    });
-</script>
-
 <br/>
 
-### For Sponsors 
+### Brief about me
 
-Most of my sponsors do not like to advertise about themselves; there are even such questions:
-
-> ... if possible I would like to give money anonymously
-
-But If you want to be a notable sponsor for some projects (or me directly):
-
-* Follow the project information if exists.
-* Try my new Patreon or Ko-fi way above to be a notable for public information.
-* You can also create an issue or even use PR to add text-based record about your donations for the readme file and so on.
-* Most valuable supporter can also add some logo image etc.
-
-<br/>
-
-### Brief About
-
-I am Software Developer with 10y+ of experience in various fields ... Analyzers/Parsers, Compilers/VM, Math, Stats, lot of plugins, libs, tools,… I love 🖼️🎹🎻🚴‍…
+I am a Software Developer with 10y+ of experience in various fields ... Analyzers/Parsers, Compilers/VM, Math, Stats, lot of plugins, libs, tools,… I love 🖼️🎹🎻🚴‍…
 
 Today's actual Open (and absolutely Free) public projects you can find mostly on [ GitHub/3F ]
 (migrated at the end of 2016)
@@ -219,10 +120,38 @@ Today's actual Open (and absolutely Free) public projects you can find mostly on
 
 I want to say thanks to everyone who understands this important things!
 
-Thank you 💕
-
-Let's do even more interesting things together 💪
+Let's do even more interesting things together 💪  ( read the note <a href="/Donation/Sponsors/" target="blank">for Sponsors</a> )
 
 *Be first, Follow the news: [https://github.com/3F](https://github.com/3F)*
 
 <a href="/" class="btn btn-default">Enjoy! ^_^</a>
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function()
+{
+    'use strict';
+
+    let _= function(id) {
+        return document.getElementById(id);
+    };
+
+    let accounts = _('content').innerHTML.split("==========");
+
+    _('iUSD').addEventListener("click", function(){
+        _('content').innerHTML = accounts[2].trim();
+    });
+
+    _('iEUR').addEventListener("click", function(){
+        _('content').innerHTML = accounts[4].trim();
+    });
+
+    _('iRUR').addEventListener("click", function(){
+        _('content').innerHTML = accounts[6].trim();
+    });
+
+    _("iUSD").click();
+    _("iUSD").classList.add("active");
+});
+</script>
