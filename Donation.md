@@ -15,7 +15,7 @@ You can easily support [**me**](https://github.com/3F) and my work!
 
 Free Software products and lot of other amazing things like various programs, tools, scripts, libraries, compilers, parsers, helpers, source codes, projects support, documentations, and many other related where no Ads! no Spam! no Scam! no Trojans! Only the best from my professional [10+ years skills](#brief-about-me).
 
-Your any even small ☕ support helps me keep all the features *free* and even *open* !
+Your even small ☕ support helps me keep all the features *free* and even *open* !
 
 \**Commercial organisations **must** consider recurring donations if they have profit or benefit by indirectly using me and my free products!*
 
@@ -107,7 +107,7 @@ For ₽ RUR:
 
 ### Brief about me
 
-I am a Software Developer with 10y+ of experience in various fields ... Analyzers/Parsers, Compilers/VM, Math, Stats, lot of plugins, libs, tools,… I love 🖼️🎹🎻🚴‍…
+Software architect with 10y+ of experience in various fields ... Analyzers/parsers, compilers/VM, math, stats, lot of plugins, libs, tools, opensource, … I love 🖼️🎹🎻🚴‍…
 
 Today's actual Open (and absolutely Free) public projects you can find mostly on [ GitHub/3F ]
 (migrated at the end of 2016)
