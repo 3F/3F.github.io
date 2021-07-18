@@ -9,19 +9,24 @@ permalink: /Donation/
 
 *`n e w`* <br /> <a href='https://ko-fi.com/github3f' target='_blank'><img height='28' style='border:0px;height:28px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee' /></a> | *`n e w`* <br /> <a href="https://www.patreon.com/GitHub3F"><img height='28' style='border:0px;height:28px;' src='/img/become_a_patron_button.png' border='0' alt="Become a Patron" /></a> | PayPal <br/>x-3F@outlook.com | Bank accounts for non-commercial purposes
 --------------|-------------|-------|------
-[ko-fi.com/**github3f**](https://ko-fi.com/github3f) | [patreon.com/**GitHub3F**](https://www.patreon.com/GitHub3F) | [paypal.me/**GitHub3F**](https://www.paypal.me/GitHub3F) <br />!About <a href="/Donation/PayPal/limitations/" target="blank">PayPal limitations</a> | [`[$USD]`](#iUSD) [`[₽RUR]`](#iRUR) [`[€EUR]`](#iEUR) 
+[ko-fi.com/**github3f**](https://ko-fi.com/github3f) | [patreon.com/**GitHub3F**](https://www.patreon.com/GitHub3F) | [paypal.me/**GitHub3F**](https://www.paypal.me/GitHub3F) <br />!About <a href="/Donation/PayPal/limitations" target="blank">PayPal limitations</a> | [`[$USD]`](#iUSD) [`[₽RUR]`](#iRUR) [`[€EUR]`](#iEUR) 
 
 You can easily support [**me**](https://github.com/3F) and my work!
 
-Free Software products and lot of other amazing things like various programs, tools, scripts, libraries, compilers, parsers, helpers, source codes, projects support, documentations, and many other related where no Ads! no Spam! no Scam! no Trojans! Only the best from my professional [10+ years skills](#brief-about-me).
+Free Software products and lot of other amazing things like various programs, tools, scripts, libraries, compilers, parsers, helpers, source codes, projects support, documentations, and many other related where no Ads! no Spam! no Scam! no Trojans! Only the best from my professional 10+ years skills.
 
-Your even small ☕ support helps me keep all the features *free* and even *open* !
+Your even small ☕ support helps me keep all features *free* and even *open* !
 
-\**Commercial organisations **must** consider recurring donations if they have profit or benefit by indirectly using me and my free products!*
+\**Commercial organisations **must** consider recurring donations if they have profit or benefit by indirectly using me and my free products! Please have a conscience.*
 
 #### Contacts
 
-Use my contact information from the official [**GitHub**](https://github.com/3F) page. For 2021, `{{ site.email }}` emails should be signed using the same GPG keys as for GitHub. For example, GPG key ID: [*87D912D7C31E50AC*](http://keys.gnupg.net/pks/lookup?search=0x87D912D7C31E50AC&fingerprint=on&hash=on&exact=on&op=index) ([public key](http://keys.gnupg.net/pks/lookup?op=get&search=0x87D912D7C31E50AC) and github [verification](https://github.com/3F/UnmanagedEmitCalli/commit/cf6dea8f8da46f9b5b6c71b22432140d4149739d) etc.)
+Use my contact information from the official [**GitHub**](https://github.com/3F) page. For 2021, `{{ site.email }}` emails should be signed using the same GPG keys as for GitHub. For example, my personal valid keys:
+
+Key ID | Key type | Public key | GitHub
+-------|----------|------------|--------------
+[48C57854C71C6982](https://keyserver.ubuntu.com/pks/lookup?search=0x48C57854C71C6982&fingerprint=on&hash=on&exact=on&op=index) | ECC (Elliptic curve) | [Download](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xbc8003c6bafee09d6852ef4a48c57854c71c6982) | ✔ [Verified signature](https://github.com/3F/sandbox/commit/ff293eb3ecc6b590f7d563b6febf5e7df5f3b75f)
+[87D912D7C31E50AC](https://keyserver.ubuntu.com/pks/lookup?search=0x87D912D7C31E50AC&fingerprint=on&hash=on&exact=on&op=index) | RSA 4096 | [Download](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xe70807a577c809b2d897ed5587d912d7c31e50ac) | ✔ [Verified signature](https://github.com/3F/UnmanagedEmitCalli/commit/cf6dea8f8da46f9b5b6c71b22432140d4149739d)
 
 Note: [`{{ site.email0 }}`](https://twitter.com/GitHub3F/status/1204167272312512512) ( *obsolete*, 2009 - 2020 [[?](https://twitter.com/GitHub3F/status/1204167272312512512)] )
 
@@ -120,7 +125,7 @@ Today's actual Open (and absolutely Free) public projects you can find mostly on
 
 I want to say thanks to everyone who understands this important things!
 
-Let's do even more interesting things together 💪  ( read the note <a href="/Donation/Sponsors/" target="blank">for Sponsors</a> )
+Let's do even more interesting things together 💪  ( read the note <a href="/Donation/Sponsors" target="blank">for Sponsors</a> )
 
 *Be first, Follow the news: [https://github.com/3F](https://github.com/3F)*
 
