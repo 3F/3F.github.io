@@ -1,0 +1,28 @@
+# Site settings
+title: -_*
+subtitle: ...
+email: x-3F@outlook.com
+email0: entry.reg@gmail.com
+baseurl: ""
+url: "https://r-eg.net"
+domain: "r-eg.net"
+icon: https://avatars.githubusercontent.com/u/3246589?
+
+# root path to doc structure
+docp: "/doc"
+#permalink: pretty
+
+collections:
+    doc: # main documentation
+        output: true
+
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+    smart_quotes: ["apos", "apos", "quot", "quot"]
+    auto_ids: true # generate ID for headings
+    input: GFM # +GitHub Flavored Markdown
+  
+highlighter: rouge

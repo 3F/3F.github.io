@@ -1,0 +1,29 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{page.title}}{% else %}{{site.title}}{% endif %}</title>
+
+  <link rel="stylesheet" href="{{ "/css/common.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+
+  {% if page.icon != "none" %}
+    <link rel="icon" href="{% if page.icon %}{{page.icon}}{% else %}{{site.icon}}{% endif %}" />
+  {% endif %}
+
+  {% if page.mdstyle %}
+    <link rel="stylesheet" href="{{ "/css/md.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/css/platform.css" | prepend: site.baseurl }}">
+  {% else %}
+    <link rel="stylesheet" href="{{ "/css/pin.css" | prepend: site.baseurl }}">
+  {% endif %}
+
+  {% if page.url == "/" %}
+    <script src="/js/cubes.js"></script>
+  {% endif %}
+
+  {% if page.redirect %}
+    <meta http-equiv="refresh" content="12;url={{page.redirect}}">
+  {% endif %}
+</head>
