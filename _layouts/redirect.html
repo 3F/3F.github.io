@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0;url={{page.newlink}}" />
+    <link rel="canonical" href="{{page.newlink}}"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    {% include head.html %}
+  </head>
+  <body>
+    <script>location = '{{page.newlink}}'</script>
+
+    <div class="page-content">
+      <div class="wrapper">
+
+          <div class="home">
+
+              <div class="container-centered">
+                <div class="row row-centered">
+
+                  <div class="panel panel-primary">
+                    <div class="panel-heading">
+                      <h1 class="panel-title">
+                        <span class="glyphicon glyphicon-hourglass" aria-hidden="true"></span> 
+                        Redirecting... 
+                        <span class="glyphicon glyphicon-share-alt" aria-hidden="true"></span>
+                        <a href="{{page.newlink}}">{{page.newlink}}</a> 
+                      </h1>
+                    </div>
+                    <div class="panel-body">
+                      <b><a href="{{page.newlink}}">Click here</a></b> 
+                      if you are not automatically redirected.
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+
+          </div>
+        
+      </div>
+    </div>
+
+  </body>
+</html>
